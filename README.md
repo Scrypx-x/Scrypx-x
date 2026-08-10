@@ -1,7 +1,7 @@
     # Joseph Fernando Ramirez Montenegro
 
 **Desarrollador Full Stack Junior**
-Ciudad de Guatemala, Guatemala | Disponible para prácticas profesionales y oportunidades Junior | [tu-correo@gmail.com](mailto:tu-correo@gmail.com)
+Ciudad de Guatemala, Guatemala | Disponible para prácticas profesionales y oportunidades Junior | [JosephRamirez@gmail.com](mailto:krowrosh@gmail.com)
 
 ---
 
@@ -12,6 +12,8 @@ Estudiante de desarrollo de software con interés en el desarrollo Full Stack, l
 Mi formación y experiencia práctica me han permitido trabajar en el desarrollo de aplicaciones web, manejo de bases de datos, automatización de procesos y construcción de soluciones utilizando diferentes tecnologías. Busco continuar fortaleciendo mis conocimientos mediante proyectos prácticos y nuevos retos que me permitan crecer como desarrollador.
 
 Actualmente trabajo y me ejercito en Python, JavaScript, HTML, CSS, SQLite y herramientas de automatización como n8n. También tengo interés en seguir desarrollando mis conocimientos en arquitectura de software, integración de APIs, automatización e inteligencia artificial.
+
+Dentro de mis intereses de crecimiento profesional se encuentra profundizar en el desarrollo backend, fortaleciendo mis conocimientos en programación, diseño de APIs, bases de datos y arquitectura de aplicaciones. Asimismo, tengo interés en desarrollarme progresivamente en el área de ciberseguridad, adquiriendo conocimientos sobre seguridad de aplicaciones, buenas prácticas de desarrollo seguro y protección de sistemas y datos.
 
 ## Propuesta de valor
 
