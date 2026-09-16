@@ -1,7 +1,32 @@
-    # Joseph Fernando Ramirez Montenegro
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=Professional+Profile&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=GitHub+Portfolio&descAlignY=58&descSize=18" alt="Joseph Fernando Ramirez Montenegro" width="100%" />
+</div>
 
-**Desarrollador Full Stack Junior**
-Ciudad de Guatemala, Guatemala | Disponible para prácticas profesionales y oportunidades Junior | [JosephRamirez@gmail.com](mailto:krowrosh@gmail.com)
+<br />
+
+<div align="center">
+  <a href="https://github.com/Scrypx-x/portafolio">
+    <img src="https://img.shields.io/badge/Portafolio-Disponible-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
+  </a>
+  <a href="https://github.com/Scrypx-x?tab=repositories">
+    <img src="https://img.shields.io/badge/Proyectos-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Scrypx-x&style=for-the-badge&color=0891b2&label=VISITAS" alt="Profile views" />
+</div>
+
+<h1 align="center">Joseph Fernando Ramirez Montenegro</h1>
+
+<p align="center">
+  <strong>Desarrollador Full Stack Junior</strong>
+  <br />
+  Ciudad de Guatemala, Guatemala | Disponible para prácticas profesionales y oportunidades Junior | <a href="mailto:krowrosh@gmail.com">JosephRamirez@gmail.com</a>
+</p>
+
+<div align="center">
+  <a href="https://github.com/Scrypx-x">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=8FB3FA&center=true&vCenter=true&width=980&lines=FULL+STACK+EN+PYTHON+y+JAVASCRIPT;Automatizaci%C3%B3n+con+n8n+e+IA;Bases+de+Datos+SQLite+y+SQL;" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
@@ -15,6 +40,8 @@ Actualmente trabajo y me ejercito en Python, JavaScript, HTML, CSS, SQLite y her
 
 Dentro de mis intereses de crecimiento profesional se encuentra profundizar en el desarrollo backend, fortaleciendo mis conocimientos en programación, diseño de APIs, bases de datos y arquitectura de aplicaciones. Asimismo, tengo interés en desarrollarme progresivamente en el área de ciberseguridad, adquiriendo conocimientos sobre seguridad de aplicaciones, buenas prácticas de desarrollo seguro y protección de sistemas y datos.
 
+---
+
 ## Propuesta de valor
 
 * Capacidad de aprendizaje y adaptación a nuevas tecnologías y herramientas de desarrollo.
@@ -23,6 +50,8 @@ Dentro de mis intereses de crecimiento profesional se encuentra profundizar en e
 * Disposición para trabajar de manera colaborativa y aprender de otros desarrolladores.
 * Interés en la automatización de procesos y aplicación de nuevas tecnologías.
 * Compromiso con el crecimiento profesional y la mejora continua de mis habilidades.
+
+---
 
 ## Tecnologias
 
@@ -40,13 +69,51 @@ Dentro de mis intereses de crecimiento profesional se encuentra profundizar en e
 
 ### Herramientas y Automatización
 
-## Proyectos destacados
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,sqlite,git,github,vscode,obsidian&perline=10" alt="Tech stack" />
+</div>
 
-| Proyecto | Descripcion | Tecnologias | Enlace |
-| -------- | ----------- | ----------- | ------ |
-|          |             |             |        |
-|          |             |             |        |
-|          |             |             |        |
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Frontend-Stack-1f2937?style=flat-square" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-Stack-1f2937?style=flat-square" alt="Backend" />
+  <img src="https://img.shields.io/badge/Data-Databases-1f2937?style=flat-square" alt="Data" />
+  <img src="https://img.shields.io/badge/Tools-Workflow-1f2937?style=flat-square" alt="Tools" />
+</div>
+
+---
+
+## Actividad en GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Scrypx-x&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scrypx-x&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
+</div>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=Scrypx-x&show_icons=true&theme=dark&hide_border=true&rank_icon=github&bg_color=0F172A&title_color=38BDF8&icon_color=7DD3FC&text_color=E2E8F0"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Scrypx-x&layout=compact&langs_count=6&card_width=470&theme=dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0"
+        alt="Most Used Languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+---
 
 ## Actualmente estoy aprendiendo
 
@@ -54,18 +121,35 @@ Dentro de mis intereses de crecimiento profesional se encuentra profundizar en e
 * Normalización y optimización de bases de datos relacionales con SQLite y SQL
 * Buenas prácticas de arquitectura de software y código modular en Python y JavaScript
 
+---
+
 ## Objetivo profesional
 
 Desarrollarme profesionalmente en el área de Desarrollo Full Stack y Automatización de Procesos, adquiriendo experiencia en proyectos reales y enfrentando nuevos desafíos que me permitan fortalecer mis conocimientos técnicos.
 
 Busco formar parte de equipos donde pueda aportar mis conocimientos, aprender de otros profesionales y continuar desarrollando soluciones tecnológicas que respondan a necesidades reales.
 
+---
+
 ## Contacto
 
-* Correo: [JosephRamirez@gmail.com](mailto:onelittlestranger10@gmail.com)
-* LinkedIn: [Joseph Fernando Ramirez Montenegro](https://www.linkedin.com/in/tu-usuario/)
-* GitHub: [tu-usuario](https://github.com/Scrypx-x)
-* Portafolio: [Scrypx-x](https://github.com/Scrypx-x/portafolio)
+<div align="center">
+  <a href="https://www.linkedin.com/in/tu-usuario/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:onelittlestranger10@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-Contacto-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  </a>
+  <a href="https://github.com/Scrypx-x">
+    <img src="https://img.shields.io/badge/GitHub-Scrypx--x-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <strong>Disponible | Ciudad de Guatemala, Guatemala</strong>
+</div>
 
 ---
 
