@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://github.com/Scrypx-x">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=8FB3FA&center=true&vCenter=true&width=980&lines=FULL+STACK+EN+PYTHON+y+JAVASCRIPT;Automatizaci%C3%B3n+con+n8n+e+IA;Bases+de+Datos+SQLite+y+SQL;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=DC2626&center=true&vCenter=true&width=980&lines=FULL+STACK+EN+PYTHON+y+JAVASCRIPT;Automatizaci%C3%B3n+con+n8n+e+IA;Bases+de+Datos+SQLite+y+SQL;" alt="Typing SVG" />
   </a>
 </div>
 
